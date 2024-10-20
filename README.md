@@ -9,5 +9,3 @@ The publications are as follows:
 [Optimization of cooler networks with different cooling types in series and parallel configuration](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.8b04059)
 
 [Optimization of cooler networks considering different types of cooling](https://www.cetjournal.it/index.php/cet/article/view/CET1870082)
-
-[Economic analysis based on energy and water consumptions between air-cooling and water-cooling](https://www.cetjournal.it/index.php/cet/article/view/CET1761059)
